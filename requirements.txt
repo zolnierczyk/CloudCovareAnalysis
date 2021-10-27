@@ -7,7 +7,7 @@ Cartopy==0.17.0
 cftime==1.1.1.2
 configobj==5.0.6
 cycler==0.10.0
-dask==2.13.0
+dask==2021.10.0
 decorator==4.4.2
 defusedxml==0.6.0
 entrypoints==0.3
